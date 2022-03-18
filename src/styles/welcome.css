@@ -1,0 +1,21 @@
+.welcome--content {
+    display: flex;
+}
+
+.all-browsers {
+    padding: 1rem;
+    box-shadow: 1px 2px 7px 8px #efefef;
+    margin: 1rem;
+}
+
+.welcome--content > aside {
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 1px 2px 7px 8px #efefef;
+}
+
+
+.clock-container {
+    display:flex; 
+    justify-content: center;
+}
